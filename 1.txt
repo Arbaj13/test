@@ -6,4 +6,11 @@ old nav aaded again
 old_nav is added
 new_nav added
 NEW MERGER REQUEST !!!
+<<<<<<< HEAD
+>>>>>>> new_navigation
+=======
+PLEASE ADD ME /
+PLEASE !!!
+TETST
+TETSDT
 >>>>>>> new_navigation
